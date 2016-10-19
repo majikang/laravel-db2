@@ -37,7 +37,7 @@ Add the laravel-db2 Service Provider to your config in ``app/config/app.php``:
 
 ```php
 'providers' => [
-    'Majikang\Database\DB2\DB2ServiceProvider'
+    'Cooperl\Database\DB2\DB2ServiceProvider'
 ],
 ```
 

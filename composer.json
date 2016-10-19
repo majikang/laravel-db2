@@ -1,6 +1,6 @@
 {
     "name": "majikang/laravel-db2",
-    "description": "laravel-db2 is a simple DB2 service provider for Laravel. It provides DB2 Connection by extending the Illuminate Database component of the laravel framework.",
+    "description": "laravel-db2 is a simple DB2 service provider for Laravel. Customized by Seuic",
     "keywords": ["laravel", "DB2", "Database", "PDO", "ODBC"],
     "license": "MIT",
     "authors": [
